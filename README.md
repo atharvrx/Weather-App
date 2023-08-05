@@ -21,6 +21,12 @@ Copy code
 ./WeatherApp
 The program will prompt you to enter the name of the city for which you want to retrieve the weather data.
 
+
+
+
+
+
+
 After entering the city name, the program will make an API request to OpenWeatherMap and display the Many information Realted to City such as (current Temperature, max Temperature, min Temperature, humdity , wind Speed and many more)
 
 
@@ -38,4 +44,8 @@ Name :- Atharv Raj
 
 Email  :- atharvraj250@gmail.com
 
-Linkeid Profile  :- https://www.linkedin.com/in/atharv-raj-250/ 
+Linkeid Profile  :- https://www.linkedin.com/in/atharv-raj-250/
+
+Output:-![Screenshot (159)](https://github.com/atharvrx/Weather-App/assets/105799817/9aa606b6-a10d-420a-a199-a7b2da324156)
+
+
